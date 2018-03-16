@@ -1,0 +1,101 @@
+body{
+	width: 976px;
+	padding: 0 !important;
+}
+.crud_heading{
+	height: 104px;
+	background-color: #adb5bd;
+}
+.crud_heading_img{
+	margin-top: 32px;
+	margin-left: 32px;
+	margin-bottom: 32px;
+}
+.crud_body{
+	background-color: #f1f1f1;
+}
+.crud_add_panel{
+	background-color: white;
+	height: 72px;
+	margin: 0 32px 10px 32px !important;
+	vertical-align: middle;
+}
+.crud_subtitle{
+	color: #757575;
+	font-size: 20px;
+	font-weight: bold;
+	margin-left: 32px;
+	margin-top: 70px;
+	margin-bottom: 35px;
+}
+.crud_input{
+	margin: 16px 0px 16px 16px;
+	height: 40px;
+}
+.crud_btn{
+	height: 40px;
+	background-color: #ededed;
+	width: 110px;
+	margin: 16px 16px;
+	float: right;
+}
+.crud_cancelbtn{
+	height: 40px;
+	background-color: #ededed;
+	margin-top: 9px;
+	font-size: 16px;
+	color: #07f;
+	font-weight: 500;
+	width: 90px;
+}
+.crud_savebtn{
+	height: 40px;
+	background-color: #07f;
+	margin-top: 9px;
+	float: right;
+	color: white;
+	font-size: 16px;
+	font-weight: 500;
+	width: 90px;
+}
+.crud_tbl_hd{
+	height: 48px;
+	color: #757575;
+	font-size: 14px;
+	line-height: 16px;
+	font-weight: 500;
+}
+.crud_tbl_panel{
+	background-color: white;
+	margin: 0 32px 10px 32px !important;
+	vertical-align: middle;
+}
+.th_padding{
+	padding: 14px 16px 0 16px !important; 
+}
+.td_padding{
+	padding: 24px !important; 
+}
+.crud_tbl_bd{
+	height: 72px;
+	color: #757575;
+	font-size: 14px;
+	line-height: 16px;
+	font-weight: 500;
+	visibility: visible;
+}
+.show_tr{
+	visibility: visible;
+}
+.hide_tr{
+	display: none;
+}
+.crud_ico{
+	width: 24px;
+	height: 24px;
+	fill: #909090;
+	font-size: 16px;
+}
+.point_cursor{
+	cursor: pointer;
+}

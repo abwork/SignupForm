@@ -10,7 +10,7 @@ Navigate to the created folder: cd signupform
 
 Install dependencies: npm install
 
-Start the project npm start
+Start the project: npm start
 
-Go to localhost:8080
+Go to localhost: 8080
 
